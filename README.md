@@ -18,8 +18,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=marco-rath&style=for-the-badge&color=005f8a&label=PROFILE+VIEWS&labelColor=0d0d0d" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/marco-rath?style=for-the-badge&color=005f8a&labelColor=0d0d0d&label=FOLLOWERS" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/FULL-STACK-00cfff?style=for-the-badge&labelColor=0d0d0d" />
 &nbsp;
 <img src="https://img.shields.io/badge/OPEN%20TO-WORK-00e676?style=for-the-badge&labelColor=0d0d0d" />
@@ -34,15 +33,19 @@
 
 🎓 &nbsp;**Universidad Nacional Micaela Bastidas de Apurímac**
 
+🌐 &nbsp;**Portafolio Web:**  
+👉 **https://devbymarco.netlify.app/**
+
 🔧 &nbsp;Full Stack Developer specialized in **Angular, Spring Boot, Java, .NET, Node.js, PHP & Android**
 
 🌐 &nbsp;Passionate about building **scalable and modern web & mobile applications**
 
 💡 &nbsp;Always exploring new technologies and **best practices**
 
-📍 &nbsp;**Abancay, Apurímac, Peru 🇵🇪**
+🗺️ &nbsp;**Abancay, Apurímac, Peru 🇵🇪**
 
 📬 &nbsp;**211192@unamba.edu.pe**
+
 
 <br>
 
