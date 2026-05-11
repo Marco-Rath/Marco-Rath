@@ -33,7 +33,7 @@
 
 🎓 &nbsp;**Universidad Nacional Micaela Bastidas de Apurímac**
 
-🌐 &nbsp;**Web Portfolio :****https://devbymarco.netlify.app/**
+🌐 &nbsp;Web Portfolio :**https://devbymarco.netlify.app/**
 
 🔧 &nbsp;Full Stack Developer specialized in **Angular, Spring Boot, Java, .NET, Node.js, PHP & Android**
 
