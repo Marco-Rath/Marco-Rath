@@ -3,9 +3,9 @@
 ══════════════════════════════════════════════════════ -->
 <img 
   width="100%" 
-  src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Marco%20Rath&fontFamily=Raleway&fontSize=62&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=✦%20Full%20Stack%20Developer%20✦%20Angular%20%7C%20Spring%20Boot%20%7C%20.NET%20%7C%20Node.js%20%7C%20Android%20✦&descSize=14&descColor=f5f5f5&descAlign=50&descAlignY=63&animation=fadeIn&backgroundImage=https://media.istockphoto.com/id/1682980457/es/foto/visualizaci%C3%B3n-de-an%C3%A1lisis-de-big-data-ciencia-de-datos-y-tecnolog%C3%ADa-de-big-data.jpg?s=612x612&w=0&k=20&c=yHI49r3_BCS1XYhtxEYrUcpfAhfQ0mZU8VP_xHUMwMA=" 
+  height="220"
+  src="https://media.istockphoto.com/id/1682980457/es/foto/visualizaci%C3%B3n-de-an%C3%A1lisis-de-big-data-ciencia-de-datos-y-tecnolog%C3%ADa-de-big-data.jpg?s=612x612&w=0&k=20&c=yHI49r3_BCS1XYhtxEYrUcpfAhfQ0mZU8VP_xHUMwMA=" 
 />
-
 <br>
 
 <div align="center">
